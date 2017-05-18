@@ -6,3 +6,6 @@ https://unbreakablepo.com/
 
 # What is a Product Owner? - Scrum Guide
 https://www.youtube.com/watch?v=3eljozEWpf8
+
+#List of books for reading
+https://brainmates.com.au/interesting-reads/essential-reading-for-clever-product-people/
