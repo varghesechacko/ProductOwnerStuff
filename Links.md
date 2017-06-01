@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=3eljozEWpf8
 
 # List of books for reading
 https://brainmates.com.au/interesting-reads/essential-reading-for-clever-product-people/
+
+# The cupcake approach
+https://blog.intercom.com/when-a-cupcake-becomes-a-wedding-cake/
