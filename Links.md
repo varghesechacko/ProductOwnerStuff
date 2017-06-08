@@ -12,3 +12,6 @@ https://brainmates.com.au/interesting-reads/essential-reading-for-clever-product
 
 # The cupcake approach
 https://blog.intercom.com/when-a-cupcake-becomes-a-wedding-cake/
+
+# Product Owner Blog
+https://productownerblog.wordpress.com
