@@ -15,3 +15,8 @@ https://blog.intercom.com/when-a-cupcake-becomes-a-wedding-cake/
 
 # Product Owner Blog
 https://productownerblog.wordpress.com
+
+# Badass: Making Users Awesome (Also a book)
+https://vimeo.com/131407754
+
+# The Design of Everyday Things [Book]
