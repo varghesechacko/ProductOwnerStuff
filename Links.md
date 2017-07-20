@@ -23,3 +23,6 @@ https://vimeo.com/131407754
 
 # Product Anonymous
 http://productanonymous.com/
+
+# Mind the product
+http://www.mindtheproduct.com/
