@@ -26,3 +26,6 @@ http://productanonymous.com/
 
 # Mind the product
 http://www.mindtheproduct.com/
+
+# Brainmates Leading the Product 2017 slides
+https://www.slideshare.net/brainmates
