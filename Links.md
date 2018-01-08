@@ -29,3 +29,6 @@ http://www.mindtheproduct.com/
 
 # Brainmates Leading the Product 2017 slides
 https://www.slideshare.net/brainmates
+
+# 20 Years of Product Management in 25 Minutes
+https://www.mindtheproduct.com/2017/08/20-years-product-management-25-minutes-dave-wascha/
