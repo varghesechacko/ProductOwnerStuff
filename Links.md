@@ -35,3 +35,12 @@ https://www.mindtheproduct.com/2017/08/20-years-product-management-25-minutes-da
 
 # Cognitive Biases and the Questions you Shouldn't be asking
 https://www.mindtheproduct.com/2018/08/cognitive-biases-the-questions-you-shouldnt-be-asking-by-cindy-alvarez/
+
+# Toyota Traditions
+https://www.toyota-global.com/company/toyota_traditions/
+
+# Idea to paying cusotmers in 7 weeks
+https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it
+
+# Roadmunk - what is a mininu viable product
+https://roadmunk.com/guides/build-and-improve-minimum-viable-product/?utm_source=hs_email&utm_medium=email&utm_content=69831592&_hsenc=p2ANqtz-9_XdD_XzRtaIhhMjdZD8t_DBFMrGWV3EOKJQ7ZfwsjjygMh1QN6eMVrdzMMlmm1V9B2OIBDbsP1yeaCRv4TUpHkapt-g&_hsmi=69831592
