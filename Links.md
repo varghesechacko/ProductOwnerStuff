@@ -42,5 +42,8 @@ https://www.toyota-global.com/company/toyota_traditions/
 # Idea to paying cusotmers in 7 weeks
 https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it
 
-# Roadmunk - what is a mininu viable product
+# Roadmunk - what is a mininum viable product
 https://roadmunk.com/guides/build-and-improve-minimum-viable-product/?utm_source=hs_email&utm_medium=email&utm_content=69831592&_hsenc=p2ANqtz-9_XdD_XzRtaIhhMjdZD8t_DBFMrGWV3EOKJQ7ZfwsjjygMh1QN6eMVrdzMMlmm1V9B2OIBDbsP1yeaCRv4TUpHkapt-g&_hsmi=69831592
+
+# Will it scale?
+https://blog.leanstack.com/but-will-it-scale-72894fbc6f47
