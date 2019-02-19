@@ -47,3 +47,6 @@ https://roadmunk.com/guides/build-and-improve-minimum-viable-product/?utm_source
 
 # Will it scale?
 https://blog.leanstack.com/but-will-it-scale-72894fbc6f47
+
+# Story telling
+https://medium.com/build-acl/pixars-rules-of-storytelling-applied-to-product-managers-ux-designers-420cec0a18a6
